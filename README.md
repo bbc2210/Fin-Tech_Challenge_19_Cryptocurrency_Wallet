@@ -76,7 +76,7 @@ It can be frustrating when packages do not install correctly. Use the following 
 In some cases, the `Web3.py` library may fail to install in Microsoft Windows due to the need for Microsoft Visual C++ Build Tools. If this happens, follow these steps to resolve the issue:
 
 1. Go to [https://visualstudio.microsoft.com/downloads/ (Links to an external site.)](https://visualstudio.microsoft.com/downloads/).  
-2. Scroll down the page, and then click "Tools for Visual Studio 2019" to reveal the options. ![vs-build-tools.png](https://courses.bootcampspot.com/courses/740/files/719087/preview) 
+2. Scroll down the page, and then click "Tools for Visual Studio 2019" to reveal the options. ![BuildToolsForVS2019_highlight.jpg](Images/BuildToolsForVS2019_highlight.jpg) 
 3. Download the "Build Tools for Visual Studio 2019" package.
 4. Run the package file and select the C++ Build Tools option. Then click Install. The installation process takes about 15 minutes.
 
